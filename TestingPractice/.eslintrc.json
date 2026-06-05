@@ -1,0 +1,13 @@
+{
+  "env": {
+    "node": true,
+    "jest": true,
+    "es2021": true
+  },
+"rules": {
+    "no-mixed-spaces-and-tabs": "off",
+    "indent": "off"
+  },
+  
+  "extends": "eslint:recommended"
+}
